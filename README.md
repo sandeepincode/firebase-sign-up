@@ -9,5 +9,6 @@ to register user interest for a product or anything else! Feel free to do whatev
 4. npm start 
 5. Have fun :)
 
-- Thanks
+Thanks
+<br>
 Sandeepincode
