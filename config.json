@@ -1,0 +1,10 @@
+{
+  "privateKey": {
+    "path": "./privateKey.json"
+  },
+  "firebase": {
+    "database": {
+      "url": "https://some-url-here.firebaseio.com"
+    }
+  }
+}

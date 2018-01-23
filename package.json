@@ -1,0 +1,26 @@
+{
+  "name": "signup-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www PORT=4321"
+  },
+  "dependencies": {
+    "better-npm-run": "^0.1.0",
+    "express-session": "^1.15.2",
+    "nodemon": "^1.14.3",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "firebase-admin": "^5.5.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
